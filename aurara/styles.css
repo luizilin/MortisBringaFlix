@@ -1,0 +1,64 @@
+body {
+    color: white;
+    background: black;
+    font-family: "Sawarabi Mincho", serif;
+    margin-bottom: 100px;
+}
+
+header {
+    font-size: 33px;
+    color: indigo;
+
+
+}
+
+.dragonite {
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.dragao {
+    margin-right: 5%;
+}
+
+h1 {
+
+    font-size: 40px;
+}
+
+p {
+
+    font-size: 20px;
+}
+
+img {
+    height: 250px;
+}
+
+.awekend {
+    display: flex;
+    overflow-x: auto;
+    gap: 12px;
+}
+
+.rayquaza {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.awekend img {
+    opacity: 0.5;
+}
+
+.awekend img:hover {
+    opacity: 1.0;
+    border: 5px solid indigo;
+
+}
+
+.rayquaza h2 {
+    color: navy;
+}
